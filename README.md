@@ -3,3 +3,6 @@ A battleship like game in python 3 with pygame graphics. It is designed with pla
 
 ## Class Diagram
 ![](https://github.com/Daniel71529/ScufflingVessels/blob/main/images/ClassDiagram.png?raw=true)
+
+## GUI Mockup
+![](https://github.com/Daniel71529/ScufflingVessels/blob/main/images/Gui.png?raw=true)
