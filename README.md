@@ -8,7 +8,7 @@
 + Different characters to play as
 
 ## Class Diagram
-![]()
+![](https://github.com/Daniel71529/MouseMousse/blob/main/images/CD.png?raw=true)
 
 ## GUI Mockup
 ![]()
