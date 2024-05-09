@@ -3,7 +3,7 @@
 ## Features
 + Text-based adventure game in python 3
 + Storyboarded game with multiple paths
-+ Multiple options and endings
++ Multiple options
 + Utilizing object orienting programming in python
 + Different characters to play as
 
