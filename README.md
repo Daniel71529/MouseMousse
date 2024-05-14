@@ -8,5 +8,5 @@
 + Different characters to play as
 
 ## Class Diagram
-![](https://github.com/Daniel71529/MouseMousse/blob/main/images/Diagram.png?raw=true)
+![](https://github.com/Daniel71529/MouseMousse/blob/main/images/Class.png?raw=true)
 
