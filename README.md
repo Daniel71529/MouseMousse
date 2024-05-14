@@ -10,6 +10,3 @@
 ## Class Diagram
 ![](https://github.com/Daniel71529/MouseMousse/blob/main/images/Diagram.png?raw=true)
 
-## GUI Mockup
-![]()
-
