@@ -1,3 +1,4 @@
+# Daniel Luo
 class Enemy:
   def __init__(self, health, attack, defense, name):
     self.health = health
