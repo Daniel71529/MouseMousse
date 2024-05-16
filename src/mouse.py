@@ -1,3 +1,4 @@
+# Daniel Luo
 class Mouse:
   def __init__(self, health, attack, defense, name):
     self.health = health
