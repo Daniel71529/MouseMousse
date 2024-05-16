@@ -1,3 +1,4 @@
+# Daniel Luo
 class Item:
   def __init__(self, type, amount_health):
     self.type = type
